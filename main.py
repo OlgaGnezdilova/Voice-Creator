@@ -4,7 +4,7 @@ import time
 
 
 language = 'ru'
-id_mode = 'ru_v4'
+id_mode = 'ru_v3'
 sample_rate = 48000
 speaker = 'daya'
 put_accent = True

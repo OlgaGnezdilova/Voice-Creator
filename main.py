@@ -3,7 +3,7 @@ import sounddevice as sou_voi
 import time
 
 language = 'ru'
-model_id = 'ru_v3'
+id_mode = 'ru_v3'
 sample_rate = 48000 # 48000
 speaker = 'baya' # aidar, baya, kseniya, xenia, random
 put_accent = True
